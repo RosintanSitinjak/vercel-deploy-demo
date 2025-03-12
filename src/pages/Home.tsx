@@ -1,8 +1,9 @@
-
 const Home = () => {
   return (
-    <div>Home Page</div>
-  )
-}
+    <div>
+      <h1>Rosintan Sitinjak</h1>
+    </div>
+  );
+};
 
-export default Home
+export default Home;
